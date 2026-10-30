@@ -21,9 +21,9 @@ This repository contains my daily practice code, exercises, notes, and mini-proj
 | Day       | Topics                                                          | Status      |
 | --------- | --------------------------------------------------------------- | ----------- |
 | Day 01    | Python Setup, Variables, Data Types, Type Casting, User Input   | ✅ Completed |
-| Day 02    | Operators and Conditional Statements                            | ✅  Upcoming  |
-| Day 03    | Loops (for, while)                                              | ✅ Upcoming  |
-| Day 04    | Strings and String Methods                                      | ⏳ Upcoming  |
+| Day 02    | Operators and Conditional Statements                            | ✅  Completed |
+| Day 03    | Loops (for, while)                                              | ✅ Completed |
+| Day 04    | Strings and String Methods                                      | ✅ Completed  |
 | Day 05    | Lists and Tuples                                                | ⏳ Upcoming  |
 | Day 06    | Dictionaries and Sets                                           | ⏳ Upcoming  |
 | Day 07    | Revision and Mini Project                                       | ⏳ Upcoming  |
