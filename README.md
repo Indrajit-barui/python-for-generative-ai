@@ -24,7 +24,7 @@ This repository contains my daily practice code, exercises, notes, and mini-proj
 | Day 02    | Operators and Conditional Statements                            | ✅  Completed |
 | Day 03    | Loops (for, while)                                              | ✅ Completed |
 | Day 04    | Strings and String Methods                                      | ✅ Completed  |
-| Day 05    | Lists and Tuples                                                | ⏳ Upcoming  |
+| Day 05    | Lists and Tuples                                                | ✅ Completed |
 | Day 06    | Dictionaries and Sets                                           | ⏳ Upcoming  |
 | Day 07    | Revision and Mini Project                                       | ⏳ Upcoming  |
 | Day 08–14 | Functions, Modules, JSON, Files and OOP                         | ⏳ Upcoming  |
