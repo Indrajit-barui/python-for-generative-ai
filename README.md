@@ -25,9 +25,9 @@ This repository contains my daily practice code, exercises, notes, and mini-proj
 | Day 03    | Loops (for, while)                                              | ✅ Completed |
 | Day 04    | Strings and String Methods                                      | ✅ Completed  |
 | Day 05    | Lists and Tuples                                                | ✅ Completed |
-| Day 06    | Dictionaries and Sets                                           | ⏳ Upcoming  |
-| Day 07    | Revision and Mini Project                                       | ⏳ Upcoming  |
-| Day 08–14 | Functions, Modules, JSON, Files and OOP                         | ⏳ Upcoming  |
+| Day 06    | Dictionaries and Sets                                           | ✅ Completed  |
+| Day 07    | Revision and Mini Project                                       | ✅ Completed |
+| Day 08–14 | Functions, Modules, JSON, Files and OOP                         | ⏳ In progress  |
 | Day 15–21 | OOP, APIs, Virtual Environments, Async Python and Pydantic      | ⏳ Upcoming  |
 | Day 22–30 | LLM APIs, Prompt Engineering, Embeddings, RAG and Final Project | ⏳ Upcoming  |
 
